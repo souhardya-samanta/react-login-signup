@@ -2,7 +2,7 @@ Login/SignUp Page Built Using ReactJS
 
 git clone https://github.com/souhardya69/react-login-signup.git
 
-cd <repo>
+cd "to repo directory"
   
 // if you are using yarn
 
